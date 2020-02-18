@@ -1,7 +1,9 @@
 # New Interfaces for Musical Expression (NIME): Creating and Composing Unique Interactive Performances
 
 ## Description
-Students will learn how to create a New Interface for Musical Expression, or NIME. They will understand how to effectively map sensory data onto custom interfaces designed to generate sound as an expressive musical instrument. Using a strong, hands-on approach, students will learn about electronic music composition, sound design, synthesis, effects processing, musical form, structure, development, and nonstandard notational principles. The course will culminate in an end-of-semester concert where students will perform original works, complete with NIME-specific notation, composed to showcase their NIMEs.
+This course will walk students through the process of creating a New Interface for Musical Expression, or NIME, and use it to compose and perform an original musical work. Students will learn skills in both technical and creative fields in order to effectively capture sensory data and transform it into sound. Various topics in electronic music composition will be covered to give students a wide range of possible directions in which to develop their NIMEs. This includes computer programming for audio, sound design and effects processing, musical structure, fabrication, circuitry, and nonstandard notation principles. The course will culminate with a final concert in which students will perform original works composed for their NIMEs.
+
+Can undergraduate classes run in one single session?
 
 ---
 
@@ -11,8 +13,12 @@ A laptop running macOS or Windows will be required for the course. Chromebooks w
 ---
 
 ## Learning Outcomes
-* Learn to play and perform their NIMEs
-* ALL ELSE PENDING
+Upon successful completion of this course, students will understand...
+
+* How to create a New Interface for Musical Expression, or NIME;
+* How to play and perform their NIMEs;
+* How to map sensory data onto custom interfaces designed to generate sound as an expressive musical instrument;
+* And, how to compose elementary electronic compositions.
 
 ---
 
@@ -43,49 +49,64 @@ If, on the other hand, you design an analog-based NIME, one where you might be s
 * Listen/watch previous NIMEs
 * Introductions
 * Introduction to the course
-* First round or interactive audio demos
+* Demo: Max/MSP/Jitter/Processing/Arduino
 
 ### Week 02
-* History of NIMEs
 * Listen to music at the very beginning of class, something related to a NIME
+* History of NIMEs
+* Intro to electronics
+* Hands-on practice: electronics
 
 ### Week 03
 * Listen/watch previous NIMEs
+* Fundamentals of computer programming
+* Intro to Processing
+* Hands-on practice: Processing
 
 ### Week 04
 * Listen/watch previous NIMEs
-* Pitch ideas
+* Creating sound with Processing
+* Intro to Max/MSP/Jitter
+* Hands-on practice: Max/MSP/Jitter
 
 ### Week 05
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Departing from traditional Western musical constructs
+* Pitch ideas
 
 ### Week 06
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Shaping sound electronically
+* Mapping spatial data, such as light, climate, proximity, temperature, or moisture to audio/video
 
 ### Week 07
 * Midterm presentations
 
 ### Week 08
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Project check-ins
+* Using unconventional methods to trigger NIMEs
+* OpenSoundProtocol, or OSC
 
 ### Week 09
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Project check-ins
+* Thinking ergonomically about your NIMEs
 
 ### Week 10
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Project check-ins
+* Mapping body movement to analog or digital audio
 
 ### Week 11
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Project check-ins
+* Processing and filtering audio through Max and/or plugins
 
 ### Week 12
 * Listen/watch previous NIMEs
-* NIME development status updates
+* Project check-ins
+* Scoring your NIME compositions
 
 ### Week 13
 * Open lab
