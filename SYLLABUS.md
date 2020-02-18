@@ -1,9 +1,7 @@
 # New Interfaces for Musical Expression (NIME): Creating and Composing Unique Interactive Performances
 
 ## Description
-This course will walk students through the process of creating a New Interface for Musical Expression, or NIME, and use it to compose and perform an original musical work. Students will learn skills in both technical and creative fields in order to effectively capture sensory data and transform it into sound. Various topics in electronic music composition will be covered to give students a wide range of possible directions in which to develop their NIMEs. This includes computer programming for audio, sound design and effects processing, musical structure, fabrication, and electronic circuitry. The course will culminate with a final concert in which students will perform original works composed for their NIMEs.
-
-Can undergraduate classes run in one single session?
+This course will walk students through the process of creating a New Interface for Musical Expression, or <span class="small-caps"><abbr title="New Interface for Musical Expression">nime</abbr></span>, and use it to compose and perform an original musical work. Students will learn skills in both technical and creative fields in order to effectively capture sensory data and transform them into sound. Various topics in electronic music composition will be covered to give students a wide range of possible directions in which to develop their <span class="small-caps"><abbr title="New Interface for Musical Expression">nime</abbr></span>s. This includes computer programming for audio, sound design and effects processing, musical structure, fabrication, and electronic circuitry. The course concludes with a concert in which students perform original compositions for their <span class="small-caps"><abbr title="New Interface for Musical Expression">nime</abbr></span>s.
 
 ---
 
